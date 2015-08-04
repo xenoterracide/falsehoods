@@ -11,6 +11,7 @@ contribute them to this repository.
 * [Falsehoods Programmers believe about Geography][4]
 * [Falsehoods Programmers believe about Addresses][5]
 * [Falsehoods Programmers believe about Gender][7]
+* [Falsehoods Programmers believe about Online Shopping][8]
 
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0
 International License][1].
@@ -22,3 +23,4 @@ International License][1].
 [5]: https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/
 [6]: http://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time
 [7]: http://www.cscyphers.com/blog/2012/06/28/falsehoods-programmers-believe-about-gender/
+[8]: http://wiesmann.codiferes.net/wordpress/?p=22201
