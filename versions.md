@@ -4,6 +4,7 @@
 1. versions are semantic
 1. versions are decimals
 1. a major number of 1 or above means stable api
+1. versions with the same major number will have the same api
 1. versions have numbers, periods, and maybe a preceding v
 1. semantic is always the best way to go
 1. versions are consistent within a project
