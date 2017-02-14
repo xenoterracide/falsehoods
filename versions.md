@@ -18,3 +18,4 @@
 1. in a given archive all code will have the same version
 1. semantic versions can only have 3 positions
 1. dates are bad for versions
+1. versions always increase by exactly one
