@@ -19,3 +19,8 @@
 1. semantic versions can only have 3 positions
 1. dates are bad for versions
 1. versions always increase by exactly one
+1. the least significant digit, character or group is the last one
+1. version numbers convey no runtime information
+1. over-the-wire and human-readable versions are fully convertible back
+   and forth without any loss of information
+1. "10" is not a valid single digit
