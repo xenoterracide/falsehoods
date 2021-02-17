@@ -24,3 +24,4 @@
 1. over-the-wire and human-readable versions are fully convertible back
    and forth without any loss of information
 1. "10" is not a valid single digit
+1. Latest is always set to the latest semantic versioning
